@@ -99,8 +99,8 @@ The project includes:
 ## 👨‍💻 Author
 
 **Your Name**  
-🔗 LinkedIn: [your-linkedin-url]  
-📧 Email: your.email@gmail.com
+🔗 LinkedIn: [https://www.linkedin.com/in/omerahmed7995345/]  
+📧 Email: omerahmed1317@gmail.com
 
 ---
 
@@ -145,6 +145,6 @@ Built a Student Exam Score Predictor using Linear Regression in Python.
 
 Tech used: Python | scikit-learn | pandas | seaborn
 
-GitHub: [your link here]
+GitHub: [https://github.com/omerahmed1317/]
 
-#MachineLearning #Python #DataScience #ML #FirstProject
+#MachineLearning #Python #DataScience #ML 
